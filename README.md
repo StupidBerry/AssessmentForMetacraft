@@ -10,3 +10,5 @@ After cloning the github, you will want to do the following to get the code runn
 
 After this, the project will be running on your localhost. 
 Typically at http://localhost:3000/
+
+This is a smart contract with 2 functions  , deposit and withdraw that takes an input amount from user and deposits or withdraws that amount to your wallet. This was created by Aryan Khanduri for metacrafter assignment 
